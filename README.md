@@ -56,7 +56,7 @@ meal-finder/
 
 1. Clone or download this repository:
 
-git clone https://github.com/your-username/meal-finder.git
+git clone https://github.com/bonnymkuu/Food-Order-App.git
 
 
 2. Open any .html file (e.g. index.html) in your browser.
